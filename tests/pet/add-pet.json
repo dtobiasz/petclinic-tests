@@ -1,0 +1,30 @@
+{
+    "page_title": "PetClinic :: a Spring Framework demonstration",
+    "page_url": "/owners/1/pets/new",
+    "elements": {
+        "heading": "New Pet",
+        "owner_page_button_add": "Add New Pet",
+        "button_add": "Add Pet",
+        "error_input_blank": "is required",
+        "error_input_blank_count": 2,
+        "error_date_future": "invalid date",
+        "label_pet_name": "Name",
+        "label_pet_date_of_birth": "Birth Date",
+        "label_pet_type": "Type",
+        "text_add_pet_success": "New Pet has been Added",
+        "text_add_pet_error": "is already in use"
+    },
+    "data": {
+        "page_url_owner": "/owners/1",
+        "formfields": [
+            {
+                "label": "Name",
+                "value": "TestPet"
+            }
+            
+        ],
+        "birthDate_valid": "2022-12-22",
+        "birthDate_invalid": "2026-12-22",
+        "pet_type": "dog"
+    }
+}

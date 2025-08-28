@@ -1,0 +1,67 @@
+{
+    "page_title": "PetClinic :: a Spring Framework demonstration",
+    "page_url": "/owners/1/pets/1/visits/new",
+    "elements": {
+        "heading": "New Visit",
+        "owner_page_button_add": "Add Visit",
+        "button_add": "Add Visit",
+        "text_add_visit_success": "Your visit has been booked",
+        "error_input_blank": "must not be blank",
+        "error_input_blank_count": 1
+       
+    },
+    "data": {
+        "page_url_owner": "/owners/1",
+        
+        "visits": [
+            {
+                "formfields": [
+                    {
+                        "label": "Date",
+                        "value": "2024-07-13"
+                    },
+                    {
+                        "label": "Description",
+                        "value": "Testvisit #1 - Past"
+                    }
+                ]
+            },
+            {
+                "formfields": [
+                    {
+                        "label": "Date",
+                        "value": "2025-08-29"
+                    },
+                    {
+                        "label": "Description",
+                        "value": "Testvisit #2 - Present"
+                    }
+                ]
+            },
+            {
+                "formfields": [
+                    {
+                        "label": "Date",
+                        "value": "2025-10-10"
+                    },
+                    {
+                        "label": "Description",
+                        "value": "Testvisit #3 - Future"
+                    }
+                ]
+            },
+            {
+                "formfields": [
+                    {
+                        "label": "Date",
+                        "value": "2025-10-10"
+                    },
+                    {
+                        "label": "Description",
+                        "value": "Testvisit #4 - Future, same Day"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "page_title": "PetClinic :: a Spring Framework demonstration",
+    "page_url": "/owners/new",
+    "elements": {
+        "heading": "Find Owners",
+        "button_add": "Add Owner",
+        "label_firstname": "First Name",
+        "label_lastname": "Last Name",
+        "label_address": "Address",
+        "label_city": "City",
+        "label_telephone": "Telephone",
+        "error_input_phone": "Telephone must be a 10-digit number",
+        "error_input_blank": "must not be blank",
+        "error_input_blank_count": 5,
+        "page_redirect_url": "/owners/",
+        "text_new_owner_created": "New Owner Created"
+    },
+    "data": {
+        "formfields": [
+            {
+                "label": "First Name",
+                "value": "FirstNameTest"
+            },
+            {
+                "label": "Last Name",
+                "value": "LastNameTest"
+            },
+            {
+                "label": "Address",
+                "value": "TestRoad 123"
+            },
+            {
+                "label": "City",
+                "value": "12345 TestCity"
+            }
+        ],
+    
+        "owner_telephone_invalid_short": "01234",
+        "owner_telephone_invalid_text": "12TestPhone",
+        "owner_telephone_valid": "0123456789"
+        
+    } 
+}

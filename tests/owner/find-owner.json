@@ -1,0 +1,18 @@
+{
+    "page_title": "PetClinic :: a Spring Framework demonstration",
+    "page_url": "/owners/find",
+    "elements": {
+        "heading": "Find Owners",
+        "button_find": "Find Owner",
+        "input_name_find_owner": "lastName",
+        "heading_owner_specific": "Owner Information",
+        "heading_owner_multiple": "Owners",
+        "table_rows_owner_multiple_count": 2,
+        "text_owner_none": "has not been found"
+    },
+    "data": {
+        "owner_none": "SomeRandomStringNobodyKnows",
+        "owner_specific": "Franklin", 
+        "owner_multiple": "Davis"
+    } 
+}
